@@ -14,7 +14,7 @@ All files were taken or adapted from their corresponding free/open access source
 <!-- Name change means adaptation -->
 
 | Filename |  Description    | Source | Adapted?|
-|---|:-:|:-:|:-:|
+|---|---|:-:|:-:|
 | `BreastTumors.xlsx` | Breast Cancer Wisconsin (Diagnostic) Dataset | [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)|✅|
 | `fallecidos_covid.csv` | Covid Deaths Peru 08/2021 | [MINSA Peru](https://www.minsa.gob.pe/datosabiertos/)|❌|
 | `heart_missing.csv` | Heart Disease Dataset (with some values removed) | [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)|✅|
