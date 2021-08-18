@@ -17,7 +17,7 @@ All files were taken or adapted from their corresponding free/open access source
 |---|:-:|:-:|:-:|
 | `BreastTumors.xlsx` | Breast Cancer Wisconsin (Diagnostic) Dataset | [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)|✅|
 | `fallecidos_covid.csv` | Covid Deaths Peru 08/2021 | [MINSA Peru](https://www.minsa.gob.pe/datosabiertos/)|❌|
-| `heart_missing.csv` | Heart Disease Dataset | [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)|✅|
+| `heart_missing.csv` | Heart Disease Dataset (with some values removed) | [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)|✅|
 | `ImmigrantsCanada.xlsx` | Inmigrants to Canada by Citizenship | [UN](https://www.un.org/en/development/desa/population/migration/data/empirical2/migrationflows.asp)|✅|
 | `peru_departamental_simple.geojson` | GeoJson Map of Peru by departments | [Kaggle](https://www.kaggle.com/noemelo/geojson-departamentos-peru)|✅|
 | `real_state_valuation.xlsx` | Real estate valuation Dataset | [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set)|❌|
