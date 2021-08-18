@@ -1,5 +1,5 @@
 # Courses_DataFiles
-Datasets and external files of academic courses.
+Datasets and external files for academic courses.
 
 ## Filename encoding using to import
 
@@ -13,7 +13,7 @@ All files were taken or adapted from their corresponding free/open access source
 
 <!-- Name change does not mean adaptation -->
 
-| Filename |  Description    | Source | Adapted?|
+| Filename |  Description    | Source | Adapted? |
 |---|---|:-:|:-:|
 | `BreastTumors.xlsx` | Breast Cancer Wisconsin (Diagnostic) Dataset | [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)|✅| <!-- Not sure if this is just a filetype change of the original source -->
 | `fallecidos_covid.csv` | Covid Deaths Peru 08/2021 | [MINSA Peru](https://www.minsa.gob.pe/datosabiertos/)|❌|
