@@ -4,7 +4,8 @@ Datasets and external files for academic courses.
 ## Filename encoding using to import
 
 ```python3
-https://github.com/DanielSaromo/Courses_DataFiles/blob/main/COURSENAME/FILENAME?raw=true```
+https://github.com/DanielSaromo/Courses_DataFiles/blob/main/COURSENAME/FILENAME?raw=true
+```
 
 ## File sources
 
