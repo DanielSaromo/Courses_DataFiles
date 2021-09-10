@@ -15,6 +15,7 @@ All files were taken or adapted from their corresponding free/open access source
 
 | Filename |  Description    | Source | Adapted? |
 |---|---|:-:|:-:|
+| `bank-additional-full.csv` | Bank Marketing Dataset | [UCI ML Repository](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing)|❌| 
 | `BreastTumors.xlsx` | Breast Cancer Wisconsin (Diagnostic) Dataset | [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)|✅| <!-- Not sure if this is just a filetype change of the original source -->
 | `fallecidos_covid.csv` | Covid Deaths Peru 08/2021 | [MINSA Peru](https://www.minsa.gob.pe/datosabiertos/)|❌|
 | `heart_missing.csv` | Heart Disease Dataset (with some values removed) | [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)|✅|
