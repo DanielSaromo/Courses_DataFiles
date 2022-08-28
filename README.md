@@ -26,8 +26,9 @@ All files were taken or adapted from their corresponding free/open access source
 | `ImmigrantsCanada.xlsx` | Inmigrants to Canada by Citizenship | [UN](https://www.un.org/en/development/desa/population/migration/data/empirical2/migrationflows.asp)|✅|
 | `peru_departamental_simple.geojson` | GeoJson Map of Peru by departments | [Kaggle](https://www.kaggle.com/noemelo/geojson-departamentos-peru)|❌|
 | `real_state_valuation.xlsx` | Real estate valuation Dataset | [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set)|❌|
-| `robberies.csv` | Monthly Armed Robberies in Boston, by McCleary & Hay (1980) | [Kaggle](https://www.kaggle.com/datasets/sujan97/monthly-armed-robberies-in-boston)|❌|
+| `robberies.csv` | Monthly number of shampoo sales over a 3 year period, by Makridakis, Wheelwright, and Hyndman (1998) | [Kaggle](https://www.kaggle.com/datasets/sujan97/monthly-armed-robberies-in-boston)|❌|
 | `scara_robot_10_20.csv` | 2D SCARA robot Dataset | [My Open-Source Robot Simulator](https://github.com/DanielSaromo/Robot_Simulator_2D)|❌|
+| `shampoo.csv` | Monthly Armed Robberies in Boston, by McCleary & Hay (1980) | [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/shampoo-saled-dataset)|❌|
 | `tugbargn_cloud_classification.zip` | Image-Based Cloud Classification Dataset (by [Tugba Ergen](https://tugbaergen.blogspot.com/)) | [Kaggle](https://www.kaggle.com/datasets/tugbargn/cloud-classification)|❌|
 | `VehicleFuelConsumption.csv` | CO2 emissions of vehicles in Canada | [GitHub Repository](https://github.com/anandprabhakar0507/Python-simple-linear-Regression/blob/master/ML0101EN-Reg-Simple-Linear-Regression-Co2-py-v1.md)|✅|
 | `Wholesale_customers_data.csv` | Wholesale customers Dataset |[UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/wholesale+customers)|❌|
