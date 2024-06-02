@@ -1,50 +1,50 @@
 Id,Nombre,Descripción,Categoría
-1,Press de banca,Ejercicio para pectorales, realizado con una barra en banco plano.,Pecho
-2,Press inclinado,Ejercicio para pectorales superiores, realizado con una barra en banco inclinado.,Pecho
-3,Press declinado,Ejercicio para pectorales inferiores, realizado con una barra en banco declinado.,Pecho
-4,Aperturas con mancuernas,Ejercicio para pectorales, realizado con mancuernas en banco plano.,Pecho
-5,Press de banca con mancuernas,Ejercicio para pectorales, realizado con mancuernas en banco plano.,Pecho
-6,Press inclinado con mancuernas,Ejercicio para pectorales superiores, realizado con mancuernas en banco inclinado.,Pecho
-7,Press declinado con mancuernas,Ejercicio para pectorales inferiores, realizado con mancuernas en banco declinado.,Pecho
-8,Remo con barra,Ejercicio para espalda, realizado con una barra desde el suelo.,Espalda
-9,Remo con mancuernas,Ejercicio para espalda, realizado con una mancuerna en banco plano.,Espalda
-10,Pulldown en polea,Ejercicio para espalda, realizado en una máquina de polea alta.,Espalda
-11,Peso muerto,Ejercicio para espalda baja y piernas, realizado con una barra desde el suelo.,Espalda
-12,Remo con barra T,Ejercicio para espalda, realizado con una barra T desde el suelo.,Espalda
-13,Pullover con mancuerna,Ejercicio para espalda, realizado con una mancuerna en banco plano.,Espalda
-14,Jalón al pecho,Ejercicio para espalda, realizado en una máquina de polea alta.,Espalda
-15,Sentadillas,Ejercicio para piernas, realizado con una barra en la espalda.,Piernas
-16,Prensa de pierna,Ejercicio para piernas, realizado en una máquina de prensa.,Piernas
-17,Extensiones de pierna,Ejercicio para cuádriceps, realizado en una máquina de extensiones.,Piernas
-18,Curl de pierna,Ejercicio para isquiotibiales, realizado en una máquina de curl.,Piernas
-19,Elevación de talones,Ejercicio para pantorrillas, realizado en una máquina de elevación de talones.,Piernas
-20,Sentadilla hack,Ejercicio para piernas, realizado en una máquina hack.,Piernas
-21,Sentadilla frontal,Ejercicio para piernas, realizado con una barra en la parte frontal.,Piernas
-22,Peso muerto rumano,Ejercicio para isquiotibiales, realizado con una barra.,Piernas
-23,Estocadas con barra,Ejercicio para piernas, realizado con una barra en la espalda.,Piernas
-24,Estocadas con mancuernas,Ejercicio para piernas, realizado con mancuernas en las manos.,Piernas
-25,Elevación de talones en máquina,Ejercicio para pantorrillas, realizado en una máquina de elevación de talones.,Piernas
-26,Press militar,Ejercicio para hombros, realizado con una barra desde los hombros hacia arriba.,Hombros
-27,Elevaciones laterales,Ejercicio para hombros, realizado con mancuernas a los lados.,Hombros
-28,Elevaciones frontales,Ejercicio para hombros, realizado con mancuernas al frente.,Hombros
-29,Elevaciones posteriores,Ejercicio para hombros, realizado con mancuernas hacia atrás.,Hombros
-30,Encogimientos de hombros,Ejercicio para trapecios, realizado con una barra o mancuernas.,Hombros
-31,Press militar con mancuernas,Ejercicio para hombros, realizado con mancuernas desde los hombros hacia arriba.,Hombros
-32,Arnold press,Ejercicio para hombros, realizado con mancuernas en un movimiento de rotación.,Hombros
-33,Remo al mentón,Ejercicio para hombros y trapecios, realizado con una barra desde la cintura hasta el mentón.,Hombros
-34,Curl de bíceps con barra,Ejercicio para bíceps, realizado con una barra.,Brazos
-35,Curl de bíceps con mancuernas,Ejercicio para bíceps, realizado con mancuernas.,Brazos
-36,Curl de bíceps en banco Scott,Ejercicio para bíceps, realizado en un banco Scott con barra o mancuerna.,Brazos
-37,Press francés,Ejercicio para tríceps, realizado con una barra desde la frente hacia arriba.,Brazos
-38,Extensiones de tríceps en polea,Ejercicio para tríceps, realizado en una máquina de polea alta.,Brazos
-39,Patada de tríceps,Ejercicio para tríceps, realizado con una mancuerna hacia atrás.,Brazos
-40,Curl de bíceps con barra Z,Ejercicio para bíceps, realizado con una barra Z.,Brazos
-41,Curl de bíceps concentrado,Ejercicio para bíceps, realizado con una mancuerna en un banco.,Brazos
-42,Curl de bíceps en polea baja,Ejercicio para bíceps, realizado en una máquina de polea baja.,Brazos
-43,Press francés con mancuernas,Ejercicio para tríceps, realizado con mancuernas desde la frente hacia arriba.,Brazos
-44,Extensiones de tríceps con mancuerna,Ejercicio para tríceps, realizado con una mancuerna desde detrás de la cabeza hacia arriba.,Brazos
-45,Extensiones de tríceps con cuerda,Ejercicio para tríceps, realizado en una máquina de polea alta con cuerda.,Brazos
-46,Cinta de correr,Ejercicio para tríceps, realizado en una máquina de polea alta con cuerda.,Cardio
-47,Elíptica,Ejercicio para tríceps, realizado en una máquina de polea alta con cuerda.,Cardio
+1,Press de banca,"Ejercicio para pectorales, realizado con una barra en banco plano.",Pecho
+2,Press inclinado,"Ejercicio para pectorales superiores, realizado con una barra en banco inclinado.",Pecho
+3,Press declinado,"Ejercicio para pectorales inferiores, realizado con una barra en banco declinado.",Pecho
+4,Aperturas con mancuernas,"Ejercicio para pectorales, realizado con mancuernas en banco plano.",Pecho
+5,Press de banca con mancuernas,"Ejercicio para pectorales, realizado con mancuernas en banco plano.",Pecho
+6,Press inclinado con mancuernas,"Ejercicio para pectorales superiores, realizado con mancuernas en banco inclinado.",Pecho
+7,Press declinado con mancuernas,"Ejercicio para pectorales inferiores, realizado con mancuernas en banco declinado.",Pecho
+8,Remo con barra,"Ejercicio para espalda, realizado con una barra desde el suelo.",Espalda
+9,Remo con mancuernas,"Ejercicio para espalda, realizado con una mancuerna en banco plano.",Espalda
+10,Pulldown en polea,"Ejercicio para espalda, realizado en una máquina de polea alta.",Espalda
+11,Peso muerto,"Ejercicio para espalda baja y piernas, realizado con una barra desde el suelo.",Espalda
+12,Remo con barra T,"Ejercicio para espalda, realizado con una barra T desde el suelo.",Espalda
+13,Pullover con mancuerna,"Ejercicio para espalda, realizado con una mancuerna en banco plano.",Espalda
+14,Jalón al pecho,"Ejercicio para espalda, realizado en una máquina de polea alta.",Espalda
+15,Sentadillas,"Ejercicio para piernas, realizado con una barra en la espalda.",Piernas
+16,Prensa de pierna,"Ejercicio para piernas, realizado en una máquina de prensa.",Piernas
+17,Extensiones de pierna,"Ejercicio para cuádriceps, realizado en una máquina de extensiones.",Piernas
+18,Curl de pierna,"Ejercicio para isquiotibiales, realizado en una máquina de curl.",Piernas
+19,Elevación de talones,"Ejercicio para pantorrillas, realizado en una máquina de elevación de talones.",Piernas
+20,Sentadilla hack,"Ejercicio para piernas, realizado en una máquina hack.",Piernas
+21,Sentadilla frontal,"Ejercicio para piernas, realizado con una barra en la parte frontal.",Piernas
+22,Peso muerto rumano,"Ejercicio para isquiotibiales, realizado con una barra.",Piernas
+23,Estocadas con barra,"Ejercicio para piernas, realizado con una barra en la espalda.",Piernas
+24,Estocadas con mancuernas,"Ejercicio para piernas, realizado con mancuernas en las manos.",Piernas
+25,Elevación de talones en máquina,"Ejercicio para pantorrillas, realizado en una máquina de elevación de talones.",Piernas
+26,Press militar,"Ejercicio para hombros, realizado con una barra desde los hombros hacia arriba.",Hombros
+27,Elevaciones laterales,"Ejercicio para hombros, realizado con mancuernas a los lados.",Hombros
+28,Elevaciones frontales,"Ejercicio para hombros, realizado con mancuernas al frente.",Hombros
+29,Elevaciones posteriores,"Ejercicio para hombros, realizado con mancuernas hacia atrás.",Hombros
+30,Encogimientos de hombros,"Ejercicio para trapecios, realizado con una barra o mancuernas.",Hombros
+31,Press militar con mancuernas,"Ejercicio para hombros, realizado con mancuernas desde los hombros hacia arriba.",Hombros
+32,Arnold press,"Ejercicio para hombros, realizado con mancuernas en un movimiento de rotación.",Hombros
+33,Remo al mentón,"Ejercicio para hombros y trapecios, realizado con una barra desde la cintura hasta el mentón.",Hombros
+34,Curl de bíceps con barra,"Ejercicio para bíceps, realizado con una barra.",Brazos
+35,Curl de bíceps con mancuernas,"Ejercicio para bíceps, realizado con mancuernas.",Brazos
+36,Curl de bíceps en banco Scott,"Ejercicio para bíceps, realizado en un banco Scott con barra o mancuerna.",Brazos
+37,Press francés,"Ejercicio para tríceps, realizado con una barra desde la frente hacia arriba.",Brazos
+38,Extensiones de tríceps en polea,"Ejercicio para tríceps, realizado en una máquina de polea alta.",Brazos
+39,Patada de tríceps,"Ejercicio para tríceps, realizado con una mancuerna hacia atrás.",Brazos
+40,Curl de bíceps con barra Z,"Ejercicio para bíceps, realizado con una barra Z.",Brazos
+41,Curl de bíceps concentrado,"Ejercicio para bíceps, realizado con una mancuerna en un banco.",Brazos
+42,Curl de bíceps en polea baja,"Ejercicio para bíceps, realizado en una máquina de polea baja.",Brazos
+43,Press francés con mancuernas,"Ejercicio para tríceps, realizado con mancuernas desde la frente hacia arriba.",Brazos
+44,Extensiones de tríceps con mancuerna,"Ejercicio para tríceps, realizado con una mancuerna desde detrás de la cabeza hacia arriba.",Brazos
+45,Extensiones de tríceps con cuerda,"Ejercicio para tríceps, realizado en una máquina de polea alta con cuerda.",Brazos
+46,Cinta de correr,"Ejercicio para tríceps, realizado en una máquina de polea alta con cuerda.",Cardio
+47,Elíptica,"Ejercicio para tríceps, realizado en una máquina de polea alta con cuerda.",Cardio
 48,Bicicleta estática,Ejercicio cardiovascular realizado en una bicicleta estática.,Cardio
 49,Remo ergonómico,Ejercicio cardiovascular realizado en una máquina de remo.,Cardio
